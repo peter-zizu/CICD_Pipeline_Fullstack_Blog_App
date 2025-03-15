@@ -3,17 +3,6 @@
 ## 🎯 Project Overview
 This project demonstrates a **Production-Grade CI/CD Pipeline** built using industry-standard tools and best practices. The pipeline is designed to automate the build, test, and deployment processes, ensuring high availability, reliability, and scalability for production environments.
 
-## 📋 Table of Contents
-- [Project Overview](#-project-overview)
-- [Architecture](#-architecture)
-- [Technologies Used](#-technologies-used)
-- [Pipeline Stages](#-pipeline-stages)
-- [Prerequisites](#-prerequisites)
-- [Installation and Setup](#-installation-and-setup)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ## 🏗️ Architecture
 The pipeline follows a **DevOps best practices workflow**, integrating with various tools for:
 - Continuous Integration (CI)
