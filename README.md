@@ -21,6 +21,8 @@ The pipeline follows a **DevOps best practices workflow**, integrating with vari
 - Infrastructure as Code (IaC)
 - Monitoring and Logging
 
+![image](https://github.com/user-attachments/assets/f7670efd-7c73-4c1b-b997-58e4f7f97f16)
+
 ## 🛠️ Technologies Used
 - **Version Control**: GitHub
 - **CI/CD Orchestration**: Jenkins/GitHub Actions
