@@ -38,7 +38,7 @@ pipeline {
         stage('SonarQube Analsyis') {
             steps {
                 withSonarQubeEnv('sonar') {
-                    sh ''' $SCANNER_HOME/bin/sonar-scanner -Dsonar.projectName=BoardGame -Dsonar.projectKey=Prod-level_CICD_Pipeline_1 \
+                    sh ''' $SCANNER_HOME/bin/sonar-scanner -Dsonar.projectName=Prod-level_CICD_Pipeline_1 -Dsonar.projectKey=Prod-level_CICD_Pipeline_1 \
                             -Dsonar.java.binaries=. '''
                 }
             }
